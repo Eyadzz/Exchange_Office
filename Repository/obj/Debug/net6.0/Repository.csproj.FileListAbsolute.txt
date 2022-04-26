@@ -1,0 +1,51 @@
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Repository\obj\Debug\net6.0\ref\Repository.dll

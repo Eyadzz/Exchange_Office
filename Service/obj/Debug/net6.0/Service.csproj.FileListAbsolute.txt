@@ -1,0 +1,51 @@
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Service.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\refint\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\obj\Debug\net6.0\ref\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Service\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Service.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\refint\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Service\obj\Debug\net6.0\ref\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Service.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\refint\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Service\obj\Debug\net6.0\ref\Service.dll

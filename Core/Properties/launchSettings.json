@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Core": {
+      "commandName": "Project"
+    },
+    "API": {
+      "commandName": "Executable",
+      "executablePath": "C:\\DDDDDDDDDDDDDDDDDDDDDDDD\\FCI\\C#\\projects\\Currency Converter\\API\\API.csproj",
+      "workingDirectory": "C:\\DDDDDDDDDDDDDDDDDDDDDDDD\\FCI\\C#\\projects\\Currency Converter\\API"
+    }
+  }
+}

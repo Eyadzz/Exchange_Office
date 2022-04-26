@@ -1,0 +1,216 @@
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\appsettings.Development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\appsettings.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\API.exe
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\API.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\refint\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\obj\Debug\net6.0\ref\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Humanizer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\API\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\appsettings.Development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\appsettings.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\API.exe
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\API.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Humanizer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\refint\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\API\obj\Debug\net6.0\ref\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\appsettings.Development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\appsettings.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\API.exe
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\API.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Humanizer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Repository.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Service.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Repository.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Service.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\refint\API.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\API\obj\Debug\net6.0\ref\API.dll

@@ -1,0 +1,36 @@
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\bin\Debug\net6.0\Core.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\refint\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\projects\Currency Converter\Core\obj\Debug\net6.0\ref\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\bin\Debug\net6.0\Core.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\refint\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Currency Converter\Core\obj\Debug\net6.0\ref\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\bin\Debug\net6.0\Core.deps.json
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\bin\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\bin\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\refint\Core.dll
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\Core.pdb
+C:\DDDDDDDDDDDDDDDDDDDDDDDD\FCI\C#\Exchange Office - 1098\Exchange Office\Core\obj\Debug\net6.0\ref\Core.dll
