@@ -7,7 +7,7 @@
 - [**Summary**](#summary)
 - [**Getting started**](#getting-started)
 - [**Prerequisites**](#prerequisites)
-- [**Core Functionality**](#Core Functionality)
+- [**Core Functionality**](#Core-Functionality)
 - [**Running**](#running)
 ---
 ## Summary
