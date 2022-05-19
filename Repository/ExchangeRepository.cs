@@ -36,30 +36,15 @@ public class ExchangeRepository : IExchangeRepository
 
     public IEnumerable<CurrencyRate> GetCurrenciesRateWithinDate(DateTime startDate, DateTime endDate)
     {
-        var queryResult = _context.ExchangeHistories
+        return _context.ExchangeHistories
             .Join(_context.Currencies, exchange => exchange.CurrencyId, currency => currency.Id,
                 (exchange, currency) => new {currencyName = currency.Name, history = exchange})
-            .Where(arg => arg.history.ExchangeDate >= startDate)
-            .Where(arg => arg.history.ExchangeDate <= endDate)
+            .Where(arg => arg.history.ExchangeDate >= startDate && arg.history.ExchangeDate <= endDate)
             .GroupBy(g => new {g.currencyName})
-            .Select(g => new {CurrencyName = g.Key.currencyName, HisoryList = g.ToList()});
-
-        List<CurrencyRate> ratesResponse = new List<CurrencyRate>();
-        foreach (var rateHistory in queryResult)
-        {
-            double sum = 0;
-            double previousRate = rateHistory.HisoryList.First().history.Rate;
-            
-            for (int i = 1; i < rateHistory.HisoryList.Count; i++)
-            {
-                sum += previousRate - rateHistory.HisoryList[i].history.Rate ;
-                previousRate = rateHistory.HisoryList[i].history.Rate;
-            }
-
-            ratesResponse.Add(new CurrencyRate{Name = rateHistory.CurrencyName, Rate = sum});
-        }
-
-        return ratesResponse;
+            .Select(g => 
+                new CurrencyRate{Name = g.Key.currencyName, 
+                    Rate = g.OrderByDescending(x=>x.history.ExchangeDate).First().history.Rate - g.OrderBy(x=>x.history.ExchangeDate).First().history.Rate
+                });
     }
 
     public CurrencyHistory GetLatestCurrencyHistory(string name)
